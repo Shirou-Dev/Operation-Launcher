@@ -4,14 +4,14 @@
 title = "Operation-Launcher"
 
 [ejs.landing]
-mediaGitHubURL = ""
+mediaGitHubURL = "https://github.com/Shirou-Dev/Operation-Launcher"
 mediaTwitterURL = ""
 mediaInstagramURL = ""
 mediaYouTubeURL = "https://www.youtube.com/@rebootproject"
 mediaDiscordURL = "https://discord.gg/qkWtutEP7J"
 
 [ejs.settings]
-sourceGithubLink = ""
+sourceGithubLink = "https://github.com/Shirou-Dev/Operation-Launcher"
 supportLink = ""
 
 [ejs.welcome]
