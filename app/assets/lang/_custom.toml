@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Operation-Launcher"
+
+[ejs.landing]
+mediaGitHubURL = ""
+mediaTwitterURL = ""
+mediaInstagramURL = ""
+mediaYouTubeURL = "https://www.youtube.com/@rebootproject"
+mediaDiscordURL = "https://discord.gg/qkWtutEP7J"
+
+[ejs.settings]
+sourceGithubLink = ""
+supportLink = ""
+
+[ejs.welcome]
+welcomeHeader = "ยินดีต้อนรับเข้าสู่ Operation Project"
+welcomeDescription = "Operation-Launcher พัฒนาโดย OP-Developer"
+welcomeDescCTA = "( Credit By Helios-Launcher )"
